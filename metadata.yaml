@@ -1,0 +1,32 @@
+_repo: Found-at-Last--the-Veritable-Garden-of-Eden_40051
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40051-tei/images/covermap.jpg
+creator:
+  author:
+    agent_name: Van Slyke, D. O. (David Oyer)
+    aliases:
+    - Slyke, David van
+    - Slyke, D. O. van
+    birthdate: 1818
+    deathdate: 1890
+    gutenberg_agent_id: '40392'
+    url: http://www.gutenberg.org/2009/agents/40392
+description: ''
+gutenberg_issued: '2012-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40051'
+  lccn: '04015512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trempealeau County (Wis.) -- Description and travel'
+- !lcsh 'Eden'
+- !lcc 'F516'
+title: "Found at Last: the Veritable Garden of Eden\r\nOr a place that answers the\
+  \ Bible description of the notable spot better than anything yet discovered"
+url: http://www.gutenberg.org/ebooks/40051
